@@ -1,3 +1,4 @@
-Nama: Abhiseka Susanto\n
-NPM: 2306244942\n
-Kelas: PBP C\n
+Nama: Abhiseka Susanto
+NPM: 2306244942
+Kelas: PBP C
+Hobi: Freak
